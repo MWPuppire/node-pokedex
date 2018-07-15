@@ -1,0 +1,16 @@
+{
+  "name": "@mwpuppire/pokedex",
+  "version": "1.0.0",
+  "description": "A NodeJS Pokédex",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwpuppire/node-pokedex"
+  },
+  "author": "MWPuppire <mwpuppire@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwpuppire/node-pokedex/issues"
+  },
+  "homepage": "https://github.com/mwpuppire/node-pokedex#readme"
+}
